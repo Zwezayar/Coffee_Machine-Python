@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: PI
+  - text: LIGHT_SPEED
+  - text: width
+  - text: length
+  - text: H_BAR
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47685#comment
+status: Unchecked
+record: -1
+local_check: false

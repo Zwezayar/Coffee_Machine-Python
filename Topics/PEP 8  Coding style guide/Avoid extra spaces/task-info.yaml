@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - "print(    'Madam, I am Adam'    )"
+  - "print(   'Madam, I am Adam')"
+  - "print('Madam, I am Adam')"
+  - "print    ('Madam, I am Adam')"
+options:
+  - extra spaces after function name
+  - extra spaces after an opening parenthesis
+  - no extra spaces
+  - extra spaces within parentheses
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47501#comment
+status: Unchecked
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
