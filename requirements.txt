@@ -1,1 +1,5 @@
 https://github.com/hyperskill/hs-test-python/archive/release.tar.gz
+
+jetbrain Toolbox
+Pycharm Community {Jetbrains Academy Plug in}
+Hyperskill from Jetbrains
