@@ -1,3 +1,3 @@
-# First Project when learning with JetBrains 
-  PyCharm Commmunity Edition and Hyperskill program of Jetbrains Academy 
+# First Project Of Python Language
+  PyCharm Commmunity Edition and Hyperskill application from Jetbrains Academy 
 
